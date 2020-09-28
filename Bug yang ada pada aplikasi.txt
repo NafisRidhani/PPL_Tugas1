@@ -1,0 +1,7 @@
+Bug yang terdapat pada aplikasi :
+- jika di klik tanda "+" maka jumlah qty nya menjadi "111...1"
+- subtotal tidak berfungsi
+- nominal uang masih bisa dimasukkan string
+- jumlah qty masih bisa dimasukkan string
+- jika di klik tanda "-" jumlah qty masih bisa bernilai 0 maupun -1 dan seterusnya
+- kode promo tidak berfungsi
